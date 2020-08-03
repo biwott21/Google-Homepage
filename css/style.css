@@ -53,6 +53,10 @@ a:hover {
   list-style-type: none;
 }
 
+#biwott form {
+  position: relative;
+}
+
 #biwott form input {
   height: 39px;
   width: 480px;
@@ -60,16 +64,8 @@ a:hover {
   padding-left: 40px;
   padding-right: 40px;
   border-radius: 25px;
-
-}
-
-#biwott form input {
   color: black;
   font-weight: bold;
-}
-
-#biwott form {
-  position: relative;
 }
 
 .microphone {
